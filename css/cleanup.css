@@ -4,6 +4,6 @@
   height: 622px;
 }
 
-#wall #tag-2 .tag-1 body div#wall div.parent div > #tag-7.slick div#wall div.parent div:last-child div#tag-6 {
+#wall #tag-2 .tag-1 body div#wall div.parent div > #tag-7.slick div#wall div.parent div:last-child div#tag-6 div#wall .parent #tag-5.slick{
   display: block;
 }
