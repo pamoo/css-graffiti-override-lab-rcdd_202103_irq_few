@@ -1,4 +1,6 @@
 /* write your override styles here */
-
- width: 980px;
+#wall .tag-1{
+  width: 980px;
   height: 622px;
+}
+
